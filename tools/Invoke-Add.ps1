@@ -1,2 +1,2 @@
-param($A)
-$A + $b
+param($a, $b)
+$a + $b
